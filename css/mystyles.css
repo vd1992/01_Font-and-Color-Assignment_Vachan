@@ -1,0 +1,95 @@
+/* Sophisticated/index */
+.SophH1{
+    font-family: 'Cookie',cursive;
+    font-weight: 500;
+    font-size: 36px;
+}
+.SophOther{
+    font-family: 'Merienda', cursive;
+    font-weight:200;
+}
+.SHr{
+    color:#ff0408;
+    border-color:#ff0408;
+}
+.sophlink{
+    background-color:#fffb04;
+    color:#0408ff;
+}
+
+/* Corporate */
+.Corp1{
+    font-family:'Quattrocento Sans', sans-serif;
+    font-weight:600;
+    font-size: 36px; 
+}
+.CorpO{
+    font-family:'Quattrocento Sans', sans-serif;
+    font-weight:200;
+}
+.hrC{
+    border-color: lightskyblue;
+}
+.Clink{
+    background-color:lightgrey; 
+    color:black;
+}
+
+/* Energetic */
+.Ener1{
+    font-family: 'Shadows Into Light Two', cursive;
+    font-weight: 500;
+    font-size: 36px;
+}
+.EnerO{
+    font-family: 'Shadows Into Light Two', cursive;
+    font-weight:300;
+    font-size: 17px;
+}
+.EHr{
+    border-color:#ff6b68;
+}
+.Elink{
+    background-color:#68ff72;
+    color:black;
+}
+
+/* Relaxed */
+.Rel1{
+    font-family: 'Caveat', cursive;
+    font-weight: 500;
+    font-size: 36px;
+    color:#0408ff;
+}
+.RelO{
+    font-family: font-family: 'Lato', sans-serif;
+    font-weight:250;
+}
+.RHr{
+    border-color:#62ff84;
+
+}
+.Rlink{
+    background-color:#5ef2ff;
+    color:black;
+}
+
+/* Fun */
+.Fun1{
+    font-family: 'Gamja Flower', cursive;
+    font-weight: 600;
+    font-size: 36px;
+    color:#0408ff;
+}
+.FunO{
+    font-family: 'Montserrat', sans-serif;
+    font-weight:300;
+}
+.FHr{
+    border-color:#62ff84;
+
+}
+.Flink{
+    background-color:#5ef2ff;
+    color:black;
+}
