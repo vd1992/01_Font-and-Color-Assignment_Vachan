@@ -15,6 +15,7 @@
 .sophlink{
     background-color:#fffb04;
     color:#0408ff;
+    text-decoration: none;
 }
 
 /* Corporate */
@@ -33,6 +34,7 @@
 .Clink{
     background-color:lightgrey; 
     color:black;
+    text-decoration: none;
 }
 
 /* Energetic */
@@ -52,6 +54,7 @@
 .Elink{
     background-color:#68ff72;
     color:black;
+    text-decoration: none;
 }
 
 /* Relaxed */
@@ -72,6 +75,7 @@
 .Rlink{
     background-color:#5ef2ff;
     color:black;
+    text-decoration: none;
 }
 
 /* Fun */
@@ -87,11 +91,14 @@
 }
 .FHr{
     border-color:#ff7002;
-f
 }
 .Flink{
     background-color:#02ffbc;
     color:black;
+    text-decoration: none;
 }
-
+/* All */
+.sophlink:hover,.Clink:hover, .Elink:hover, .Rlink:hover, .Flink:hover{
+    border: 1px solid black;
+}
 
